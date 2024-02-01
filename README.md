@@ -1,12 +1,14 @@
 
-![Ekran görüntüsü 2024-02-01 011814](https://github.com/emirakyer/Data-Engineering-End-to-End-Project---Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/06b8021a-dc91-4ad9-9b93-b376e66ac8dd)
+![Ekran görüntüsü 2024-02-01 011814](https://github.com/emirakyer/Data-Engineering-End-to-End-Project--Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/96e4b3e2-fd5b-493f-a378-e535ddf3ec74)
+
 
 About Spotify dataset:
 
 This comprehensive dataset delves deeper than your average, unveiling the anatomy of 2023's most celebrated Spotify tracks. It goes beyond basic track information, offering a multifaceted lens into each song's attributes, popularity, and reach across diverse music platforms. 
 
 
-![Ekran görüntüsü 2024-02-01 011434](https://github.com/emirakyer/Data-Engineering-End-to-End-Project---Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/b6c18415-5f14-4770-9005-6e1908b92b90)
+![Ekran görüntüsü 2024-02-01 011434](https://github.com/emirakyer/Data-Engineering-End-to-End-Project--Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/d94bbf2d-32e6-4985-9881-81dd6bc2fc74)
+
 
 Dive into details like:
 
@@ -30,7 +32,8 @@ This robust dataset, brimming with insights, empowers you to understand the hear
 
 
 
-![Ekran görüntüsü 2024-02-01 011543](https://github.com/emirakyer/Data-Engineering-End-to-End-Project---Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/a75b0f7c-b2f0-4d74-877a-1c21872262a9)
+![Ekran görüntüsü 2024-02-01 011543](https://github.com/emirakyer/Data-Engineering-End-to-End-Project--Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/88bbca3c-2c6b-4a65-a6aa-0d4bceea4fc9)
+
 
 Data Source
 
@@ -77,4 +80,5 @@ Feel free to add specific details about the files or pipeline for better context
 
 Dashboard
 https://lookerstudio.google.com/u/0/reporting/4be68e63-9cd8-4a61-9eb4-c9002e3fc420/page/V48nD?s=pnf2o67whBw
-![Ekran görüntüsü 2024-02-01 011717](https://github.com/emirakyer/Data-Engineering-End-to-End-Project---Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/726e9379-8174-4cc3-a7b9-826fabcbcedf)
+![Ekran görüntüsü 2024-02-01 011717](https://github.com/emirakyer/Data-Engineering-End-to-End-Project--Google-Cloud-dbt-Looker-Studio-Prefect-Terraform/assets/124304427/dbafccd5-b5bb-4e51-8088-3938f7edf1f6)
+
